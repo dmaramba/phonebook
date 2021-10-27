@@ -1,0 +1,9 @@
+C:\David\PhoneBookManager\PhoneBookManager.Domain\bin\Debug\netcoreapp3.1\PhoneBookManager.Domain.deps.json
+C:\David\PhoneBookManager\PhoneBookManager.Domain\bin\Debug\netcoreapp3.1\PhoneBookManager.Domain.dll
+C:\David\PhoneBookManager\PhoneBookManager.Domain\obj\Debug\netcoreapp3.1\PhoneBookManager.Domain.csprojAssemblyReference.cache
+C:\David\PhoneBookManager\PhoneBookManager.Domain\obj\Debug\netcoreapp3.1\PhoneBookManager.Domain.AssemblyInfoInputs.cache
+C:\David\PhoneBookManager\PhoneBookManager.Domain\obj\Debug\netcoreapp3.1\PhoneBookManager.Domain.AssemblyInfo.cs
+C:\David\PhoneBookManager\PhoneBookManager.Domain\bin\Debug\netcoreapp3.1\PhoneBookManager.Domain.pdb
+C:\David\PhoneBookManager\PhoneBookManager.Domain\obj\Debug\netcoreapp3.1\PhoneBookManager.Domain.csproj.CoreCompileInputs.cache
+C:\David\PhoneBookManager\PhoneBookManager.Domain\obj\Debug\netcoreapp3.1\PhoneBookManager.Domain.dll
+C:\David\PhoneBookManager\PhoneBookManager.Domain\obj\Debug\netcoreapp3.1\PhoneBookManager.Domain.pdb
